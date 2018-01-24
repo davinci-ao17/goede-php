@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body {
+	margin: 0 auto;
+	background-size: 90%;
+	overflow: hidden;
+}
+
+#greet{
+	position: relative;
+	font-family: 'Lobster', cursive;
+	color: white;
+	text-shadow: 1px 1px black;
+	font-size: 80px;
+	font-weight: lighter;
+	left: 520px;
+	top: 150px;
+}
+
+#time {
+	position: relative;
+	font-family: 'Lobster', cursive;
+	color: white;
+	text-shadow: 1px 1px black;
+	font-size: 80px;
+	font-weight: lighter;
+	left: 520px;
+	top: 120px;
+}
